@@ -31,6 +31,7 @@ A collection of books for different disciplines like Python, Java, Databases, Da
 * Redis Deep Dive
 * Redis and Kafka Streams
 * Graph Databases - O'Reily
+* Redis Microservice For Dummies
 
 ## [SQL](https://github.com/thebrokenapp/books/tree/main/SQL)
 * Learning SQL
