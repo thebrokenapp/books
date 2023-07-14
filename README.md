@@ -14,3 +14,7 @@ A collection of books for different disciplines like Python, Java, Databases, Da
 * Python for Data Analysis - O'Reily
 * Learn Python3 the Hard Way
 * Mastering Large Datasets With Python - Manning Publication
+
+## [SQL](https://github.com/thebrokenapp/books/tree/main/SQL)
+* Learning SQL
+* SQL Cookbook
