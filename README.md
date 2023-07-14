@@ -18,3 +18,12 @@ A collection of books for different disciplines like Python, Java, Databases, Da
 ## [SQL](https://github.com/thebrokenapp/books/tree/main/SQL)
 * Learning SQL
 * SQL Cookbook
+
+## [Data Engineering](https://github.com/thebrokenapp/books/tree/main/data-engineering)
+* Big Data Principles and Best Pracices of Scalable Reliable Data System
+* Designing Data Intensive Application
+* Designing Event Driven Systems
+* Fundamentals of Data Engineering
+* Kafka The Definitive Guide
+* The Data Warehouse Toolkit
+* Mastering Apache Pulsar
