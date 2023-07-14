@@ -15,10 +15,6 @@ A collection of books for different disciplines like Python, Java, Databases, Da
 * Learn Python3 the Hard Way
 * Mastering Large Datasets With Python - Manning Publication
 
-## [SQL](https://github.com/thebrokenapp/books/tree/main/SQL)
-* Learning SQL
-* SQL Cookbook
-
 ## [Data Engineering](https://github.com/thebrokenapp/books/tree/main/data-engineering)
 * Big Data Principles and Best Pracices of Scalable Reliable Data System
 * Designing Data Intensive Application
@@ -34,3 +30,17 @@ A collection of books for different disciplines like Python, Java, Databases, Da
 * Redis in Action
 * Redis Deep Dive
 * Redis and Kafka Streams
+
+## [SQL](https://github.com/thebrokenapp/books/tree/main/SQL)
+* Learning SQL
+* SQL Cookbook
+
+## [System Design and Software Architecture](https://github.com/thebrokenapp/books/tree/main/software-architecture)
+* Building Event Driven Microservices
+* Software Architecture: The Hard Parts
+
+## [Streaming Systems](https://github.com/thebrokenapp/books/tree/main/streaming-systems)
+* Designing Event Driven Systems
+* Kafka In Action
+* Kafka The Definitive Guide
+* Mastering Apache Pulsar
