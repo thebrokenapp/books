@@ -27,3 +27,10 @@ A collection of books for different disciplines like Python, Java, Databases, Da
 * Kafka The Definitive Guide
 * The Data Warehouse Toolkit
 * Mastering Apache Pulsar
+
+## [Databases](https://github.com/thebrokenapp/books/tree/main/databases)
+* Cassandra The Definitive Guide 3e
+* MongoDB The Definitive Guide
+* Redis in Action
+* Redis Deep Dive
+* Redis and Kafka Streams
