@@ -41,8 +41,7 @@ A collection of books for different disciplines like Python, Java, Databases, Da
 * Building Event Driven Microservices
 * Software Architecture: The Hard Parts
 
-## [Streaming Systems](https://github.com/thebrokenapp/books/tree/main/streaming-systems)
-* Designing Event Driven Systems
-* Kafka In Action
-* Kafka The Definitive Guide
-* Mastering Apache Pulsar
+## [Web Development](https://github.com/thebrokenapp/books/tree/main/web-development)
+* Building REST APIs with Flask
+* Flask Web Development
+* HTTP2 In Action
