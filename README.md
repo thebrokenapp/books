@@ -40,6 +40,7 @@ A collection of books for different disciplines like Python, Java, Databases, Da
 ## [System Design and Software Architecture](https://github.com/thebrokenapp/books/tree/main/software-architecture)
 * Building Event Driven Microservices
 * Software Architecture: The Hard Parts
+* Microservice APIs with Python, Flask and FastAPI
 
 ## [Web Development](https://github.com/thebrokenapp/books/tree/main/web-development)
 * Building REST APIs with Flask
